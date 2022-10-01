@@ -6,7 +6,7 @@ Convert 6 monaural audio such as wav to multi-channel audio such as ac3.
 
 ## Usage
 
-1. Create an input folder.
+1. Create an `input` folder.
 2. Put 6 monaural audio files (`C.wav`, `L.wav`, `R.wav`, `LFE.wav`, `Ls.wav`, `Rs.wav`) in the input folder.
 3. Run python:
 
